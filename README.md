@@ -7,7 +7,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - Love Python and Django:heart:
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosein-1&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
